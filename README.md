@@ -75,4 +75,6 @@ Always prioritize security when accessing any online platform. Use verified **Ab
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/skins/small.webp" alt="Abacus Login" style="max-width: 100%;"></a>  
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/skins/freeze.webp" alt="Abacus Register" style="max-width: 100%;"></a>
 
-Update:  04 August Link is now operational
+
+
+Update:  13 August 2025
